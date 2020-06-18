@@ -91,3 +91,13 @@ _____________________________________
 6. Opacity. The code is hard to understand.
 
 Author : [wojteklu](https://github.com/wojteklu)
+
+# Feature :
+
+## Clean code for java
+
+## Clean code for c#
+
+## Clean code for c++
+
+## Clean code for ...
